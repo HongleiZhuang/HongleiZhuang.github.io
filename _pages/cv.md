@@ -10,50 +10,45 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-----
+* B.Eng., Department of Computer Science and Technology, Tsinghua University, 2013
+  * Supervised by Professor [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2019
+  * Supervised by Professor [Jiawei Han](http://hanj.cs.illinois.edu/)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Experience
+-----
+* **2019 - Present:**
+  * Google Research
+  * Working in the [TF-Ranking](https://github.com/tensorflow/ranking) team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Summer 2017:**
+  * Intern at IBM Research, Almaden, CA
 
-Publications
-======
+* **Summer 2016:**
+  * Intern at Microsoft Research, Redmond, WA
+
+* **Summer 2014, 2015:**
+  * Intern at LinkedIn
+
+<!-- Publications
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Service
+-----
+* Reviewer/PC member of WSDM 2021, NeurIPS 2020, NeurIPS 2019, ICML 2019, CIKM 2016, ASONAM 2015
