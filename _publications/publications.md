@@ -12,6 +12,7 @@ redirect_from:
 **Joint Aspect-Sentiment Analysis with Minimal User Guidance**  
 <small> **Honglei Zhuang**, Fang Guo, Chao Zhang, Liyuan Liu and Jiawei Han.</small>  
 <small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020</small>  
+<small> [[PDF](/files/SIGIR2020b.pdf)]</small>  
 
 **Feature Transformation for Neural Ranking Models**  
 <small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky and Marc Najork.</small>  
