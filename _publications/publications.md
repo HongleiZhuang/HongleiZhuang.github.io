@@ -80,7 +80,7 @@ redirect_from:
 <small> [[PDF](/files/KDD2015.pdf)]</small>  
 
 **Query-Based Outlier Detection in Heterogeneous Information Networks**  
-<small> Jonathan Kuck, **Honglei Zhuang**, Xifeng Yan, Hasan Cam, Jiawei Han.</small>  
+<small> Jonathan Kuck\*, **Honglei Zhuang**\*, Xifeng Yan, Hasan Cam, Jiawei Han.</small>  
 <small> In Proc. 18th International Conference on Extending Database Technology (EDBT), 2015. (\*equal contribution)</small>  
 <small> [[PDF](/files/EDBT2015.pdf)]</small>  
 
@@ -121,5 +121,6 @@ redirect_from:
 
 **Learning to Infer Social Ties in Large Networks**  
 <small> Wenbin Tang, **Honglei Zhuang**, and Jie Tang.</small>  
-<small> In Proc. of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2011. (**Best Student Paper Runner-up**) </small>  
+<small> In Proc. of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2011.</small>  
+<small> (**Best Student Paper Runner-up**) </small>  
 <small> [[PDF](/files/PKDD2011_tang.pdf)]</small>  
