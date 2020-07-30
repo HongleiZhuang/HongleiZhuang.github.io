@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+**Permutation Equivariant Document Interaction Network for Neural Learning-to-Rank**  
+<small> Rama Kumar Pasumarthi, **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
+<small> In Proc. of the 2020 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR), 2020</small>  
+<small> [[PDF](/files/ICTIR2020_Pasumarthi.pdf)]</small>  
+
 **Joint Aspect-Sentiment Analysis with Minimal User Guidance**  
 <small> **Honglei Zhuang**, Fang Guo, Chao Zhang, Liyuan Liu and Jiawei Han.</small>  
 <small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020</small>  
