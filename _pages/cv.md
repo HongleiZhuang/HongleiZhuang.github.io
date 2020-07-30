@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 -----
-* B.Eng., Department of Computer Science and Technology, Tsinghua University, 2013
-  * Supervised by Professor [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)
 * Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2019
   * Supervised by Professor [Jiawei Han](http://hanj.cs.illinois.edu/)
+* B.Eng., Department of Computer Science and Technology, Tsinghua University, 2013
+  * Supervised by Professor [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)
 
-Experience
+Work Experience
 -----
 * **2019 - Present:**
   * Google Research
