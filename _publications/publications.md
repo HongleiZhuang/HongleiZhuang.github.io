@@ -11,12 +11,12 @@ redirect_from:
 
 **Joint Aspect-Sentiment Analysis with Minimal User Guidance**  
 <small> **Honglei Zhuang**, Fang Guo, Chao Zhang, Liyuan Liu and Jiawei Han.</small>  
-<small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020</small>  
+<small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
 <small> [[PDF](/files/SIGIR2020b.pdf)]</small>  
 
 **Feature Transformation for Neural Ranking Models**  
 <small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky and Marc Najork.</small>  
-<small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020</small>  
+<small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
 <small> [[PDF](/files/SIGIR2020a.pdf)]</small>  
 
 **Adaptive Double-Exploration Tradeoff for Outlier Detection**  
@@ -26,12 +26,12 @@ redirect_from:
 
 **DyCRS: Dynamic Interpretable Postoperative Complication Risk Scoring**  
 <small> Wen Wang, Han Zhao, **Honglei Zhuang**, Rema Padman, Nirav Shah.</small>  
-<small> In Proc. of The Web Conference (WWW), 2020</small>  
+<small> In Proc. of The Web Conference (WWW), 2020.</small>  
 <small> [[PDF](/files/TheWebConf2020_wwang.pdf)]</small>  
 
 **Separate and Attend in Personal Email Search**  
 <small> Yu Meng, Maryam Karimzadehgan, **Honglei Zhuang**, Donald Metzler.</small>  
-<small> In Proc. of the 13th ACM International Conference on Web Search and Data Mining (WSDM), 2020</small>  
+<small> In Proc. of the 13th ACM International Conference on Web Search and Data Mining (WSDM), 2020.</small>  
 <small> [[PDF](/files/WSDM2020_meng.pdf)]</small>  
 
 **Spherical Text Embedding**  
@@ -46,7 +46,7 @@ redirect_from:
 
 **GeoBurst+: Effective and Real-Time Local Event Detection in Geo-Tagged Tweet Streams**  
 <small> Chao Zhang, Dongming Lei, Quan Yuan, **Honglei Zhuang**, Lance Kaplan, Shaowen Wang, Jiawei Han.</small>  
-<small> ACM Transactions on Intelligent Systems and Technology (TIST), 2018</small>  
+<small> ACM Transactions on Intelligent Systems and Technology (TIST), 2018.</small>  
 <small> [[PDF](/files/TIST2018_chao.pdf)]</small>  
 
 **Identifying Outlier Arms in Multi-Armed Bandit**  
@@ -71,8 +71,13 @@ redirect_from:
 
 **GeoBurst: Real-Time Local Event Detection in Geo-Tagged Tweet Streams**  
 <small> Chao Zhang, Guangyu Zhou, Quan Yuan, **Honglei Zhuang**, Yu Zheng, Lance Kaplan, Shaowen Wang, Jiawei Han.</small>  
-<small> In Proc. of 39th International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016</small>  
+<small> In Proc. of 39th International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016.</small>  
 <small> [[PDF](/files/SIGIR16_chao.pdf)]</small>  
+
+**Multi-Dimensional, Phrase-Based Summarization in Text Cubes**  
+<small> Fangbo Tao, **Honglei Zhuang**, Chi Wang, Qi Wang, Taylor Cassidy, Lance Kaplan, Clare Voss, Jiawei Han.</small>  
+<small> IEEE Data Engineering Bulletin, 2016.</small>  
+<small> [[PDF](/files/deb16_ftao.pdf)]</small>  
 
 **Debiasing Crowdsourced Batches**  
 <small> **Honglei Zhuang**, Aditya Parameswaran, Dan Roth, Jiawei Han.</small>  
