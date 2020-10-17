@@ -9,18 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+**Interpretable Ranking with Generalized Additive Models**  
+<small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Alexander Grushetsky, Yonghui Wu, Petr Mitrichev, Ethan Sterling, Nathan Bell, Walker Ravina, Hai Qian.</small>  
+<small> In Proc. of the 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021. (to appear)</small>  
+<small> [[arXiv](https://arxiv.org/abs/2005.02553)]</small>  
+
+**RRF102: Meeting the TREC-COVID Challenge with a 100+ Runs Ensemble**  
+<small> Michael Bendersky, **Honglei Zhuang**, Ji Ma, Shuguang Han, Keith Hall, Ryan McDonald.</small>  
+<small> [[arXiv](https://arxiv.org/abs/2010.00200)]</small>  
+
+**Mining Text Outliers in Document Directories**  
+<small> Edouard Fouché, Yu Meng, Fang Guo, **Honglei Zhuang**, Klemens Böhm, Jiawei Han.</small>  
+<small> In Proc. of 2020 IEEE International Conference on Data Mining (ICDM), 2020.</small>  
+<small> [[PDF](/files/ICDM2020_Fouche.pdf)]</small>  
+
 **Permutation Equivariant Document Interaction Network for Neural Learning-to-Rank**  
 <small> Rama Kumar Pasumarthi, **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
-<small> In Proc. of the 2020 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR), 2020</small>  
+<small> In Proc. of the 2020 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR), 2020.</small>  
+<small> (**Best Short Paper Nomination**) </small>  
 <small> [[PDF](/files/ICTIR2020_Pasumarthi.pdf)]</small>  
 
 **Joint Aspect-Sentiment Analysis with Minimal User Guidance**  
-<small> **Honglei Zhuang**, Fang Guo, Chao Zhang, Liyuan Liu and Jiawei Han.</small>  
+<small> **Honglei Zhuang**, Fang Guo, Chao Zhang, Liyuan Liu, Jiawei Han.</small>  
 <small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
 <small> [[PDF](/files/SIGIR2020b.pdf)]</small>  
 
 **Feature Transformation for Neural Ranking Models**  
-<small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky and Marc Najork.</small>  
+<small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
 <small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
 <small> [[PDF](/files/SIGIR2020a.pdf)]</small>  
 
@@ -60,17 +75,17 @@ redirect_from:
 <small> [[PDF](/files/NIPS17.pdf)]</small>  
 
 **Identifying Semantically Deviating Outlier Documents**  
-<small> **Honglei Zhuang**, Chi Wang, Fangbo Tao, Lance Kaplan and Jiawei Han.</small>  
+<small> **Honglei Zhuang**, Chi Wang, Fangbo Tao, Lance Kaplan, Jiawei Han.</small>  
 <small> In Proc. of the 2017 Conf. on Empirical Methods in Natural Language Processing (EMNLP), 2017.</small>  
 <small> [[PDF](/files/EMNLP2017.pdf)]</small>  
 
 **PReP: Path-Based Relevance from a Probabilistic Perspective in Heterogeneous Information Networks**  
-<small> Yu Shi, Po-Wei Chan, **Honglei Zhuang**, Huan Gui and Jiawei Han.</small>  
+<small> Yu Shi, Po-Wei Chan, **Honglei Zhuang**, Huan Gui, Jiawei Han.</small>  
 <small> In Proc. of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2017.</small>  
 <small> [[PDF](/files/KDD17_yushi.pdf)]</small>  
 
 **TrioVecEvent: Embedding-Based Online Local Event Detection in Geo-Tagged Tweet Streams**  
-<small> Chao Zhang, Liyuan Liu, Dongming Lei, Quan Yuan, **Honglei Zhuang**, Tim Hanratty and Jiawei Han.</small>  
+<small> Chao Zhang, Liyuan Liu, Dongming Lei, Quan Yuan, **Honglei Zhuang**, Tim Hanratty, Jiawei Han.</small>  
 <small> In Proc. of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2017.</small>  
 <small> [[PDF](/files/KDD17_chao.pdf)]</small>  
 
@@ -100,27 +115,27 @@ redirect_from:
 <small> [[PDF](/files/WSDM2015.pdf)]</small>  
 
 **Mining Query-Based Subnetwork Outliers in Heterogeneous Information Networks**  
-<small> **Honglei Zhuang**, Jing Zhang, George Brova, Jie Tang, Hasan Cam, Xifeng Yan and Jiawei Han.</small>  
+<small> **Honglei Zhuang**, Jing Zhang, George Brova, Jie Tang, Hasan Cam, Xifeng Yan, Jiawei Han.</small>  
 <small> In Proc. of 2014 IEEE International Conference on Data Mining (ICDM), 2014.</small>  
 <small> [[PDF](/files/ICDM2014.pdf)]</small>  
 
 **Role-aware Conformity Influence Modeling and Analysis in Social Networks**  
-<small> Jing Zhang, Jie Tang, **Honglei Zhuang**, Cane Wing-Ki Leung, and Juanzi Li.</small>  
+<small> Jing Zhang, Jie Tang, **Honglei Zhuang**, Cane Wing-Ki Leung, Juanzi Li.</small>  
 <small> In Proc. of the 28th AAAI Conference on Artificial Intelligence (AAAI), 2014.</small>  
 <small> [[PDF](/files/AAAI2014_zhang.pdf)]</small>  
 
 **Influence Maximization in Dynamic Social Networks**  
-<small> **Honglei Zhuang**, Yihan Sun, Jie Tang, Jialin Zhang, and Xiaoming Sun.</small>  
+<small> **Honglei Zhuang**, Yihan Sun, Jie Tang, Jialin Zhang, Xiaoming Sun.</small>  
 <small> In Proc. of 2013 IEEE International Conference on Data Mining (ICDM), 2013.</small>  
 <small> [[PDF](/files/ICDM2013.pdf)]</small>  
 
 **SAE: Social Analytic Engine for Dynamic Networks**  
-<small> Yang Yang, Jianfei Wang, Yutao Zhang, Wei Chen, Jing Zhang, **Honglei Zhuang**, Zhilin Yang, Bo Ma, Zhanpeng Fang, Sen Wu, Xiaoxiao Li, Debing Liu, and Jie Tang.</small>  
+<small> Yang Yang, Jianfei Wang, Yutao Zhang, Wei Chen, Jing Zhang, **Honglei Zhuang**, Zhilin Yang, Bo Ma, Zhanpeng Fang, Sen Wu, Xiaoxiao Li, Debing Liu, Jie Tang.</small>  
 <small> In Proc. of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2013. (demo paper)</small>  
 <small> [[PDF](/files/KDD2013.pdf)]</small>  
 
 **Actively Learning to Infer Social Ties**  
-<small> **Honglei Zhuang**, Jie Tang, Wenbin Tang, Tiancheng Lou, Alvin Chin, and Xia Wang.</small>  
+<small> **Honglei Zhuang**, Jie Tang, Wenbin Tang, Tiancheng Lou, Alvin Chin, Xia Wang.</small>  
 <small> Data Mining and Knowledge Discovery (DMKD), 2012.</small>  
 <small> [[PDF](/files/DMKD2012.pdf)]</small>  
 
@@ -130,7 +145,7 @@ redirect_from:
 <small> [[PDF](/files/PKDD2012.pdf)]</small>  
 
 **Learning to Infer Social Ties in Large Networks**  
-<small> Wenbin Tang, **Honglei Zhuang**, and Jie Tang.</small>  
+<small> Wenbin Tang, **Honglei Zhuang**, Jie Tang.</small>  
 <small> In Proc. of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2011.</small>  
 <small> (**Best Student Paper Runner-up**) </small>  
 <small> [[PDF](/files/PKDD2011_tang.pdf)]</small>  
