@@ -9,10 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+**Cross-Positional Attention for Debiasing Clicks**  
+<small> **Honglei Zhuang**, Zhen Qin, Xuanhui Wang, Michael Bendersky, Xinyu Qian, Po Hu, Dan Chary Chen.</small>  
+<small> In Proc. of the Web Conference (WWW), 2021.</small>  
+<small> [[PDF](/files/WWW2021.pdf)]</small>  
+
+**Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?**  
+<small> Zhen Qin, Le Yan, **Honglei Zhuang**, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
+<small> In International Conference on Learning Representations (ICLR), 2021.</small>  
+<small> [[PDF](/files/ICLR2021.pdf)]</small>  
+
 **Interpretable Ranking with Generalized Additive Models**  
 <small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Alexander Grushetsky, Yonghui Wu, Petr Mitrichev, Ethan Sterling, Nathan Bell, Walker Ravina, Hai Qian.</small>  
-<small> In Proc. of the 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021. (to appear)</small>  
-<small> [[arXiv](https://arxiv.org/abs/2005.02553)]</small>  
+<small> In Proc. of the 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021.</small>  
+<small> [[PDF](/files/WSDM2021.pdf)]</small>  
 
 **RRF102: Meeting the TREC-COVID Challenge with a 100+ Runs Ensemble**  
 <small> Michael Bendersky, **Honglei Zhuang**, Ji Ma, Shuguang Han, Keith Hall, Ryan McDonald.</small>  
