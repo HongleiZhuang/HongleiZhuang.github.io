@@ -20,7 +20,8 @@ Work Experience
 -----
 * **2019 - Present:**
   * Google Research
-  * Working in the [TF-Ranking](https://github.com/tensorflow/ranking) team
+  * Working in the Rankology team
+  * Participate in the development of [TF-Ranking](https://github.com/tensorflow/ranking)
 
 * **Summer 2017:**
   * Intern at IBM Research, Almaden, CA
@@ -51,4 +52,4 @@ Work Experience
   
 Service
 -----
-* Reviewer/PC member of WSDM 2021, NeurIPS 2020, NeurIPS 2019, ICML 2019, CIKM 2016, ASONAM 2015
+* Reviewer/PC member of NeurIPS, ICML, ACL, EMNLP, SIGIR, WSDM, CIKM, ASONAM
