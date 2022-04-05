@@ -9,15 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+**ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference**  
+<small> Kai Hui, Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Prakash Gupta, Cicero Nogueira dos Santos, Yi Tay, Don Metzler.</small>  
+<small> In Findings of the Association for Computational Linguistics: ACL-IJCNLP, 2022.</small>  
+<small> [[PDF](/files/ACL22.pdf)]</small>  
+
+**ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning**  
+<small> Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Steven Zheng, Sanket Vaibhav Mehta, **Honglei Zhuang**, Vinh Quoc Tran, Dara Bahri, Jianmo Ni, Jai Prakash Gupta, Kai Hui, Sebastian Ruder, Don Metzler.</small>  
+<small> In International Conference on Learning Representations (ICLR), 2022.</small>  
+<small> [[PDF](/files/ICLR22.pdf)]</small>  
+
 **Cross-Positional Attention for Debiasing Clicks**  
 <small> **Honglei Zhuang**, Zhen Qin, Xuanhui Wang, Michael Bendersky, Xinyu Qian, Po Hu, Dan Chary Chen.</small>  
 <small> In Proc. of the Web Conference (WWW), 2021.</small>  
 <small> [[PDF](/files/WWW2021.pdf)]</small>  
 
+**Ensemble Distillation for BERT-Based Ranking Models**  
+<small> **Honglei Zhuang**, Zhen Qin, Shuguang Han, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
+<small> In Proc. of the 2021 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR), 2021.</small>  
+<small> [[PDF](/files/ICTIR21.pdf)]</small>  
+
 **Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?**  
 <small> Zhen Qin, Le Yan, **Honglei Zhuang**, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
 <small> In International Conference on Learning Representations (ICLR), 2021.</small>  
 <small> [[PDF](/files/ICLR2021.pdf)]</small>  
+
+**Bootstrapping Recommendations at Chrome Web Store**  
+<small> Zhen Qin, **Honglei Zhuang**, Rolf Jagerman, Xinyu Qian, Po Hu, Dan Chary Chen, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
+<small> In Proc. of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021.</small>  
+<small> [[PDF](/files/KDD21.pdf)]</small>  
 
 **Interpretable Ranking with Generalized Additive Models**  
 <small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Alexander Grushetsky, Yonghui Wu, Petr Mitrichev, Ethan Sterling, Nathan Bell, Walker Ravina, Hai Qian.</small>  
