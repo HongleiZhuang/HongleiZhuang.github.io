@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+**Revisiting Two-tower Models for Unbiased Learning to Rank**  
+<small> Le Yan, Zhen Qin, **Honglei Zhuang**, Xuanhui Wang, Mike Berdensky, Marc Najork.</small>  
+<small> In Proc. of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.</small>  
+<small> [[PDF](/files/SIGIR22_Le.pdf)]</small>  
+
 **ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference**  
-<small> Kai Hui, Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Prakash Gupta, Cicero Nogueira dos Santos, Yi Tay, Don Metzler.</small>  
+<small> Kai Hui, **Honglei Zhuang**, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Prakash Gupta, Cicero Nogueira dos Santos, Yi Tay, Don Metzler.</small>  
 <small> In Findings of the Association for Computational Linguistics: ACL-IJCNLP, 2022.</small>  
 <small> [[PDF](/files/ACL22.pdf)]</small>  
 
@@ -61,12 +66,12 @@ redirect_from:
 
 **Joint Aspect-Sentiment Analysis with Minimal User Guidance**  
 <small> **Honglei Zhuang**, Fang Guo, Chao Zhang, Liyuan Liu, Jiawei Han.</small>  
-<small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
+<small> In Proc. of the 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
 <small> [[PDF](/files/SIGIR2020b.pdf)]</small>  
 
 **Feature Transformation for Neural Ranking Models**  
 <small> **Honglei Zhuang**, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
-<small> In Proc. of 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
+<small> In Proc. of the 43rd International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020.</small>  
 <small> [[PDF](/files/SIGIR2020a.pdf)]</small>  
 
 **Adaptive Double-Exploration Tradeoff for Outlier Detection**  
