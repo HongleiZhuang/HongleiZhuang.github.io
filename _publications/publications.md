@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+**Rax: Composable Learning-to-Rank using JAX**  
+<small> Rolf Jagerman, Xuanhui Wang, **Honglei Zhuang**, Zhen Qin, Michael Bendersky, Marc Najork.</small>  
+<small> In Proc. of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.</small>  
+<small> [[PDF](/files/KDD22_Jagerman.pdf)]</small>  
+
 **Revisiting Two-tower Models for Unbiased Learning to Rank**  
 <small> Le Yan, Zhen Qin, **Honglei Zhuang**, Xuanhui Wang, Mike Berdensky, Marc Najork.</small>  
 <small> In Proc. of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.</small>  
