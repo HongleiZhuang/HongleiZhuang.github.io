@@ -19,6 +19,11 @@ redirect_from:
 <small> In Proc. of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.</small>  
 <small> [[PDF](/files/SIGIR22_Le.pdf)]</small>  
 
+**Stochastic Retrieval-Conditioned Reranking**  
+<small> Hamed Zamani, Michael Bendersky, Don Metzler, **Honglei Zhuang**, Xuanhui Wang.</small>  
+<small> In Proc. of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), 2022.</small>  
+<small> [[PDF](/files/zamani_ictir22.pdf)]</small>  
+
 **ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference**  
 <small> Kai Hui, **Honglei Zhuang**, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Prakash Gupta, Cicero Nogueira dos Santos, Yi Tay, Don Metzler.</small>  
 <small> In Findings of the Association for Computational Linguistics: ACL-IJCNLP, 2022.</small>  
