@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+**RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**  
+<small> Honglei Zhuang, Zhen Qin, Rolf Jagerman, Kai Hui, Ji Ma, Jing Lu, Jianmo Ni, Xuanhui Wang, Michael Bendersky.</small>  
+<small> In Proc. of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023.</small>  
+<small> [[preprint](https://arxiv.org/abs/2210.10634)]</small>  
+
 **Rax: Composable Learning-to-Rank using JAX**  
 <small> Rolf Jagerman, Xuanhui Wang, **Honglei Zhuang**, Zhen Qin, Michael Bendersky, Marc Najork.</small>  
 <small> In Proc. of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.</small>  
