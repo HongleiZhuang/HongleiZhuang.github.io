@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+**Learning List-Level Domain-Invariant Representations for Ranking**  
+<small> Ruicheng Xian, **Honglei Zhuang**, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky.</small>  
+<small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), 2023. (spotlight) (to appear)</small>  
+<small> [[preprint](https://arxiv.org/abs/2212.10764)] </small>
+
+**RD-Suite: A Benchmark for Ranking Distillation**  
+<small> Zhen Qin, Rolf Jagerman, Rama Pasumarthi, **Honglei Zhuang**, He Zhang, Aijun Bai, Kai Hui, Le Yan, Xuanhui Wang.</small>  
+<small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track, 2023. (to appear)</small>  
+<small> [[preprint](https://arxiv.org/abs/2306.04455)] </small>
+
 **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**  
 <small> **Honglei Zhuang**, Zhen Qin, Rolf Jagerman, Kai Hui, Ji Ma, Jing Lu, Jianmo Ni, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Proc. of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023.</small>  
@@ -19,6 +29,11 @@ redirect_from:
 <small> In Gen-IR@SIGIR 2023.</small>  
 <small> [[PDF](/files/GenIR2023_Rolf.pdf)][[preprint](https://arxiv.org/abs/2305.03653)] </small>
 
+**How Does Generative Retrieval Scale to Millions of Passages?**  
+<small> Ronak Pradeep, Kai Hui, Jai Gupta, Ádám Dániel Lelkes, **Honglei Zhuang**, Jimmy Lin, Donald Metzler, Vinh Q. Tran</small>  
+<small> In Gen-IR@SIGIR 2023.</small>  
+<small> [[PDF](/files/GenIR2023_Ronak.pdf)][[preprint](https://arxiv.org/abs/2305.11841)] </small>
+
 **Towards Disentangling Relevance and Bias in Unbiased Learning to Rank**  
 <small> Yunan Zhang, Le Yan, Zhen Qin, **Honglei Zhuang**, Jiaming Shen, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
 <small> In Proc. of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.</small>  
@@ -26,7 +41,7 @@ redirect_from:
 
 **Predicting Instructor Performance in Online Education: An Interpretable Hierarchical Transformer with Contextual Attention**  
 <small> Wen Wang, Mi Zhou, Beibei Li, **Honglei Zhuang**.</small>  
-<small> In Forthcoming at Information System Research.</small>  
+<small> In Forthcoming at Information System Research, 2023.</small>  
 <small> [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4502857)] </small>
 
 **Rax: Composable Learning-to-Rank using JAX**  
