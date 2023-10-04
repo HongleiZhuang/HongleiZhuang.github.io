@@ -10,9 +10,24 @@ redirect_from:
 {% include base_path %}
 
 **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**  
-<small> Honglei Zhuang, Zhen Qin, Rolf Jagerman, Kai Hui, Ji Ma, Jing Lu, Jianmo Ni, Xuanhui Wang, Michael Bendersky.</small>  
+<small> **Honglei Zhuang**, Zhen Qin, Rolf Jagerman, Kai Hui, Ji Ma, Jing Lu, Jianmo Ni, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Proc. of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023.</small>  
-<small> [[preprint](https://arxiv.org/abs/2210.10634)][[checkpoints](https://github.com/google-research/google-research/tree/master/rankt5)] </small>
+<small> [[PDF](/files/rankt5_zhuang_et_al.pdf)][[preprint](https://arxiv.org/abs/2210.10634)][[checkpoints](https://github.com/google-research/google-research/tree/master/rankt5)] </small>
+
+**Query Expansion by Prompting Large Language Models**  
+<small> Rolf Jagerman, **Honglei Zhuang**, Zhen Qin, Xuanhui Wang, Michael Bendersky</small>  
+<small> In Gen-IR@SIGIR 2023.</small>  
+<small> [[PDF](/files/GenIR2023_Rolf.pdf)][[preprint](https://arxiv.org/abs/2305.03653)] </small>
+
+**Towards Disentangling Relevance and Bias in Unbiased Learning to Rank**  
+<small> Yunan Zhang, Le Yan, Zhen Qin, **Honglei Zhuang**, Jiaming Shen, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
+<small> In Proc. of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.</small>  
+<small> [[PDF](/files/KDD2023_Zhang_et_al.pdf)] </small>
+
+**Predicting Instructor Performance in Online Education: An Interpretable Hierarchical Transformer with Contextual Attention**  
+<small> Wen Wang, Mi Zhou, Beibei Li, **Honglei Zhuang**.</small>  
+<small> In Forthcoming at Information System Research.</small>  
+<small> [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4502857)] </small>
 
 **Rax: Composable Learning-to-Rank using JAX**  
 <small> Rolf Jagerman, Xuanhui Wang, **Honglei Zhuang**, Zhen Qin, Michael Bendersky, Marc Najork.</small>  
