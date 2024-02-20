@@ -11,13 +11,13 @@ redirect_from:
 
 **Learning List-Level Domain-Invariant Representations for Ranking**  
 <small> Ruicheng Xian, **Honglei Zhuang**, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky.</small>  
-<small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), 2023. (spotlight) (to appear)</small>  
-<small> [[preprint](https://arxiv.org/abs/2212.10764)] </small>
+<small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), 2023. (spotlight)</small>  
+<small> [[PDF](/files/ruicheng_neurips2023.pdf)][[preprint](https://arxiv.org/abs/2212.10764)] </small>
 
 **RD-Suite: A Benchmark for Ranking Distillation**  
 <small> Zhen Qin, Rolf Jagerman, Rama Pasumarthi, **Honglei Zhuang**, He Zhang, Aijun Bai, Kai Hui, Le Yan, Xuanhui Wang.</small>  
-<small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track, 2023. (to appear)</small>  
-<small> [[preprint](https://arxiv.org/abs/2306.04455)] </small>
+<small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track, 2023.</small>  
+<small> [[PDF](/files/zhen_neurips2023.pdf)][[preprint](https://arxiv.org/abs/2306.04455)] </small>
 
 **RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses**  
 <small> **Honglei Zhuang**, Zhen Qin, Rolf Jagerman, Kai Hui, Ji Ma, Jing Lu, Jianmo Ni, Xuanhui Wang, Michael Bendersky.</small>  
@@ -31,8 +31,13 @@ redirect_from:
 
 **How Does Generative Retrieval Scale to Millions of Passages?**  
 <small> Ronak Pradeep, Kai Hui, Jai Gupta, Ádám Dániel Lelkes, **Honglei Zhuang**, Jimmy Lin, Donald Metzler, Vinh Q. Tran</small>  
-<small> In Gen-IR@SIGIR 2023.</small>  
-<small> [[PDF](/files/GenIR2023_Ronak.pdf)][[preprint](https://arxiv.org/abs/2305.11841)] </small>
+<small> In Proc. of the 2023 Conf. on Empirical Methods in Natural Language Processing (EMNLP), 2023.</small>  
+<small> [[PDF](https://aclanthology.org/2023.emnlp-main.83.pdf)][[preprint](https://arxiv.org/abs/2305.11841)] </small>
+
+**PaRaDe: Passage Ranking using Demonstrations with Large Language Models**  
+<small> Andrew Drozdov, **Honglei Zhuang**, Zhuyun Dai, Zhen Qin, Razieh Negin Rahimi, Xuanhui Wang, Dana Alon, Andrew McCallum, Mohit Iyyer, Don Metzler, Kai Hui</small>  
+<small> In Findings of the Association for Computational Linguistics: EMNLP 2023.</small>  
+<small> [[PDF](https://aclanthology.org/2023.findings-emnlp.950.pdf)] </small>
 
 **Towards Disentangling Relevance and Bias in Unbiased Learning to Rank**  
 <small> Yunan Zhang, Le Yan, Zhen Qin, **Honglei Zhuang**, Jiaming Shen, Xuanhui Wang, Michael Bendersky, Marc Najork.</small>  
