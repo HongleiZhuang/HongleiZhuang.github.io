@@ -9,6 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+**Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?**  
+<small> Minghan Li, **Honglei Zhuang**, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky.</small>  
+<small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
+<small> [[preprint](https://arxiv.org/abs/2311.09175)] </small>
+
+**Effective and Efficient Zero-shot Document Ranking with Large Language Models: A Setwise Prompting Approach**  
+<small> Shengyao Zhuang, **Honglei Zhuang**, Bevan Koopman, Guido Zuccon.</small>  
+<small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
+<small> [[preprint](https://arxiv.org/abs/2310.09497)] </small>
+
+**Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels**  
+<small> **Honglei Zhuang**, Zhen Qin, Kai Hui, Junru Wu, Le Yan, Xuanhui Wang, Michael Bendersky.</small>  
+<small> In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.</small>  
+<small> [[preprint](https://arxiv.org/abs/2310.14122)] </small>
+
+**Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**  
+<small> Zhen Qin, Rolf Jagerman, Kai Hui, **Honglei Zhuang**, Junru Wu, Le Yan, Jiaming Shen, Tianqi Liu, Jialu Liu, Donald Metzler, Xuanhui Wang, Michael Bendersky.</small>  
+<small> In Findings of the Association for Computational Linguistics: NAACL 2024.</small>  
+<small> [[preprint](https://arxiv.org/abs/2306.17563)] </small>
+
 **Learning List-Level Domain-Invariant Representations for Ranking**  
 <small> Ruicheng Xian, **Honglei Zhuang**, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Proc. of Advances in Neural Information Processing Systems (NeurIPS), 2023. (spotlight)</small>  
