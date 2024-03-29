@@ -14,7 +14,7 @@ redirect_from:
 <small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
 <small> [[preprint](https://arxiv.org/abs/2311.09175)] </small>
 
-**Effective and Efficient Zero-shot Document Ranking with Large Language Models: A Setwise Prompting Approach**  
+**A Setwise Approach for Effective and Highly Efficient Zero-Shot Ranking with Large Language Models**  
 <small> Shengyao Zhuang, **Honglei Zhuang**, Bevan Koopman, Guido Zuccon.</small>  
 <small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
 <small> [[preprint](https://arxiv.org/abs/2310.09497)] </small>
