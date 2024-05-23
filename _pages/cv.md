@@ -19,9 +19,8 @@ Education
 Work Experience
 -----
 * **2019 - Present:**
-  * Google Research
-  * Working in the Rankology team
-  * Participate in the development of [TF-Ranking](https://github.com/tensorflow/ranking)
+  * Research Scientist at Google DeepMind
+  * Focus on research problems related to information retrieval and natural language processing
 
 * **Summer 2017:**
   * Intern at IBM Research, Almaden, CA
@@ -30,7 +29,7 @@ Work Experience
   * Intern at Microsoft Research, Redmond, WA
 
 * **Summer 2014, 2015:**
-  * Intern at LinkedIn
+  * Intern at LinkedIn, Mountain View, CA
 
 <!-- Publications
 -----
@@ -52,4 +51,4 @@ Work Experience
   
 Service
 -----
-* Reviewer/PC member of NeurIPS, ICML, ACL, EMNLP, SIGIR, WSDM, CIKM, ASONAM
+* Reviewer/PC member of top-tier machine learning (NeurIPS, ICML, ...), NLP (ACL, EMNLP, NAACL, ...) and IR/Web (SIGIR, WSDM, ...) conferences.
