@@ -9,6 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+**Inference Scaling for Long-Context Retrieval Augmented Generation**  
+<small> Zhenrui Yue\*, **Honglei Zhuang**\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky.</small>  
+<small> [[preprint](https://arxiv.org/abs/2410.04343)] </small>
+
+**Integrating Planning into Single-Turn Long-Form Text Generation**  
+<small> Yi Liang, You Wu, **Honglei Zhuang**, Li Chen, Jiaming Shen, Yiling Jia, Zhen Qin, Sumit Sanghai, Xuanhui Wang, Carl Yang, Michael Bendersky.</small>  
+<small> [[preprint](https://arxiv.org/abs/2410.06203)] </small>
+
+**Generating Diverse Criteria On-the-Fly to Improve Pointwise LLM Rankers**  
+<small> Fang Guo, Wenyu Li, **Honglei Zhuang**, Yun Luo, Yafu Li, Le Yan, Yue Zhang.</small>  
+<small> [[preprint](https://arxiv.org/abs/2404.11960)] </small>
+
+**Multimodal Reranking for Knowledge-Intensive Visual Question Answering**  
+<small> Haoyang Wen, **Honglei Zhuang**, Hamed Zamani, Alexander Hauptmann, Michael Bendersky.</small>  
+<small> [[preprint](https://arxiv.org/abs/2407.12277)] </small>
+
+**Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**  
+<small> Le Yan, Zhen Qin, **Honglei Zhuang**, Rolf Jagerman, Xuanhui Wang, Michael Bendersky, Harrie Oosterhuis.</small>  
+<small> In Proc. of the 2024 Conf. on Empirical Methods in Natural Language Processing (EMNLP), 2024.</small>  
+<small> [[preprint](https://arxiv.org/abs/2404.11791)] </small>
+
 **Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?**  
 <small> Minghan Li, **Honglei Zhuang**, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
