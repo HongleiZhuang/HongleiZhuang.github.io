@@ -11,15 +11,17 @@ redirect_from:
 
 **Inference Scaling for Long-Context Retrieval Augmented Generation**  
 <small> Zhenrui Yue\*, **Honglei Zhuang**\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky.</small>  
-<small> [[preprint](https://arxiv.org/abs/2410.04343)] </small>
+<small> In International Conference on Learning Representations (ICLR), 2025. **(oral)** </small>  
+<small> [[PDF](/files/yue_iclr_2025.pdf)][[preprint](https://arxiv.org/abs/2410.04343)] </small>
+
+**MCRanker: Generating Diverse Criteria On-the-Fly to Improve Pointwise LLM Rankers**  
+<small> Fang Guo, Wenyu Li, **Honglei Zhuang**, Yun Luo, Yafu Li, Le Yan, Qi Zhu, Yue Zhang.</small>  
+<small> In Proc. of the 18th ACM International Conference on Web Search and Data Mining (WSDM), 2025.</small>  
+<small> [[PDF](/files/guo_wsdm_2025.pdf)][[preprint](https://arxiv.org/abs/2404.11960)] </small>
 
 **Integrating Planning into Single-Turn Long-Form Text Generation**  
 <small> Yi Liang, You Wu, **Honglei Zhuang**, Li Chen, Jiaming Shen, Yiling Jia, Zhen Qin, Sumit Sanghai, Xuanhui Wang, Carl Yang, Michael Bendersky.</small>  
 <small> [[preprint](https://arxiv.org/abs/2410.06203)] </small>
-
-**Generating Diverse Criteria On-the-Fly to Improve Pointwise LLM Rankers**  
-<small> Fang Guo, Wenyu Li, **Honglei Zhuang**, Yun Luo, Yafu Li, Le Yan, Yue Zhang.</small>  
-<small> [[preprint](https://arxiv.org/abs/2404.11960)] </small>
 
 **Multimodal Reranking for Knowledge-Intensive Visual Question Answering**  
 <small> Haoyang Wen, **Honglei Zhuang**, Hamed Zamani, Alexander Hauptmann, Michael Bendersky.</small>  
@@ -28,27 +30,27 @@ redirect_from:
 **Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**  
 <small> Le Yan, Zhen Qin, **Honglei Zhuang**, Rolf Jagerman, Xuanhui Wang, Michael Bendersky, Harrie Oosterhuis.</small>  
 <small> In Proc. of the 2024 Conf. on Empirical Methods in Natural Language Processing (EMNLP), 2024.</small>  
-<small> [[preprint](https://arxiv.org/abs/2404.11791)] </small>
+<small> [[PDF](/files/le_emnlp_2024.pdf)][[preprint](https://arxiv.org/abs/2404.11791)] </small>
 
 **Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?**  
 <small> Minghan Li, **Honglei Zhuang**, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
-<small> [[preprint](https://arxiv.org/abs/2311.09175)] </small>
+<small> [[PDF](/files/li_sigir_2024.pdf)][[preprint](https://arxiv.org/abs/2311.09175)] </small>
 
 **A Setwise Approach for Effective and Highly Efficient Zero-Shot Ranking with Large Language Models**  
 <small> Shengyao Zhuang, **Honglei Zhuang**, Bevan Koopman, Guido Zuccon.</small>  
 <small> In Proc. of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.</small>  
-<small> [[preprint](https://arxiv.org/abs/2310.09497)] </small>
+<small> [[PDF](/files/shengyao_sigir_2024.pdf)][[preprint](https://arxiv.org/abs/2310.09497)] </small>
 
 **Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels**  
 <small> **Honglei Zhuang**, Zhen Qin, Kai Hui, Junru Wu, Le Yan, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.</small>  
-<small> [[preprint](https://arxiv.org/abs/2310.14122)] </small>
+<small> [[PDF](/files/naacl_2024.pdf)][[preprint](https://arxiv.org/abs/2310.14122)] </small>
 
 **Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting**  
 <small> Zhen Qin, Rolf Jagerman, Kai Hui, **Honglei Zhuang**, Junru Wu, Le Yan, Jiaming Shen, Tianqi Liu, Jialu Liu, Donald Metzler, Xuanhui Wang, Michael Bendersky.</small>  
 <small> In Findings of the Association for Computational Linguistics: NAACL 2024.</small>  
-<small> [[preprint](https://arxiv.org/abs/2306.17563)] </small>
+<small> [[PDF](/files/zhen_naacl_2024.pdf)][[preprint](https://arxiv.org/abs/2306.17563)] </small>
 
 **Learning List-Level Domain-Invariant Representations for Ranking**  
 <small> Ruicheng Xian, **Honglei Zhuang**, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky.</small>  
